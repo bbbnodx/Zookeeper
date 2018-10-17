@@ -1,0 +1,16 @@
+rule,then-verb,then-feature
+Z1,is,a-mammal
+Z2,is,a-mammal
+Z3,is,a-bird
+Z4,is,a-bird
+Z5,is,a-carnivore
+Z6,is,a-carnivore
+Z7,is,an-ungulate
+Z8,is,an-ungulate
+Z9,is,a-cheetah
+Z10,is,a-tiger
+Z11,is,a-giraffe
+Z12,is,a-zebra
+Z13,is,an-ostrich
+Z14,is,a-penguin
+Z15,is,an-albatross
